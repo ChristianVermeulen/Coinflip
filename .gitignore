@@ -1,3 +1,4 @@
-build
-node_modules
-public/dist
+./build
+./node_modules
+./dapp/dist
+./dapp/node_modules

@@ -2,3 +2,5 @@ build
 node_modules
 dapp/dist
 dapp/node_modules
+.secret
+.infurakey
